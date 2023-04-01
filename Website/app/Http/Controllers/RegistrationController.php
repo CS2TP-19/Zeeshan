@@ -30,6 +30,6 @@ class RegistrationController extends Controller
 
         auth()->attempt($request->only('email', 'password'));
 
-        return redirect('products');
+        return redirect('products')->with('success', 'You have sucessfully registered an account on EventTick!');
     }
 }
