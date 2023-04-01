@@ -50,7 +50,7 @@
     <!-- icons section ends -->
     <!-- catagory section starts -->
     <section class="Catergory">
-        <h1 class="heading"> Categories </h1>
+        <h1 class="heading"> Sort By: </h1>
         <div class="categories">
             <a href='/products/category/price_ascending'>Price-Low to High</a>
             <a href='/products/category/price_descending'>Price-High to Low</a>
