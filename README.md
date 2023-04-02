@@ -4,18 +4,24 @@
 
 ### Project Description:
 
+EventTick is an ecommerce site that provides tickets to popular concerts across the UK. Our target demographic is young adults ranging from 18-25, and maybe a smidge over for those wild cards, ensuring we get them back out on the music scene. We were influenced by other ticket selling websites like Ticketmaster but differ by our focus on delivering on a user-friendly minimalistic interface that allows for easier and more fluid interactions for our users.​ Our project also come with a java database management system that allows for the streamlined addition of new producuts, updating status of orders and to generate reports for everything related to the site.
 ---
 
 ##### Contributors:
 
-* Muniib Ali:
+* Muniib Ali
+* Zeeshan Mohammed
+* Jenson James-Ross 
+* Humera Muhammad
+* Faryal Mansoor
+* Damien Eshimu
+* Haseeb Ahmed
 
-On Laravel side created login page, registration page, displayed all products and displayed more information about a product after clicking on it. On java side displayed all products to admins, created functionality for adding/deleting a product and updating stock levels of pre existing product. Also added login security for java side and created the home page.
+### Prerequisites:
 
-
-* Zeeshan Mohammed:
-
-On Laravel side I created the Basket page which allowed people to add items to the basket. I also created the checkout page and orders page so that the users can place an order through the system and manage there orders. I was also in charge of managing the sql databases and the hosting of the sites. With the java backend side of the website i was incharge of making the orders page so that the admins can see the different orders that are on the system and change there status. I was also incharge of generating the various reports.
+* Laravel Version 9
+* PHP version 8.1.4
+* JDK 17
 
 
 
