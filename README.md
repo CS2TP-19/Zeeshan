@@ -74,7 +74,7 @@ You show now be able to use the EventTick website
 
 #### Step 1
 
-Open visual studio code and install the extension "Extension Pack for Java"
+Ensure you have followed the steps to set up EventTick. Open visual studio code and install the extension "Extension Pack for Java"
 
 #### Step 2
 
@@ -90,7 +90,7 @@ Navigate through javabackend > src > main > java > javabackend > example > javab
 
 #### Step 5
 
-Run the JavabackendApplication.java file
+With the apache server and mysql running through xampp. Run the JavabackendApplication.java file
 
 #### Step 6
 
